@@ -3,17 +3,18 @@
 ```
 git clone https://github.com/cubesnyc/ascertain.git
 cd ascertain
+
 touch backend/.env
-
 echo "OPENAI_API_KEY=..." >> backend/.env
-
-# optional. if you have higher limits than 200k tokens per minute
-echo "OPENAI_MAX_TOKENS_MIN=..." >> backend.env
+echo "OPENAI_MAX_TOKENS_MIN=..." >> backend.env   # optional. if you have higher limits than 200k tokens per minute
 
 docker-compose up --build -d
 ```
+# API
+swagger API: http://localhost:8000/docs
 
-for full API: http://localhost:8000/docs#/
+# Testing
+postman collection in tests/ folder
 
 # Notes
 ### Vector Store
