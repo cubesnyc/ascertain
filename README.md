@@ -19,9 +19,15 @@ easiest way is to load the postman collection in tests/ folder and run each requ
 medium way is to do it via the http://localhost:8000/docs endpoint
 
 hard way is raw curl:
-GET /health: ```curl --location 'http://localhost:8000/health'```
+GET /health: 
+```
+curl --location 'http://localhost:8000/health'
+```
 
-GET /documents: ```curl --location 'http://localhost:8000/documents'```
+GET /documents: 
+```
+curl --location 'http://localhost:8000/documents'
+```
 
 POST /documents: 
 ```
