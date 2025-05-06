@@ -1,0 +1,31 @@
+services:
+  backend:
+    image: python:3.12
+    volumes:
+      - ../backend:/workspaces/backend
+    ports:
+      - "8000:8000"
+    networks:
+      - app_network
+    depends_on:
+      - db
+    command: sleep infinity
+
+  db:
+    image: pgvector/pgvector:pg17
+    volumes:
+      - ascertain_postgres_data:/var/lib/postgresql/data
+    networks:
+      - app_network
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: ascertain
+    ports:
+      - "5432:5432"
+
+volumes:
+  ascertain_postgres_data:
+
+networks:
+  app_network:

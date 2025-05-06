@@ -1,0 +1,1044 @@
+Amgen Q4 2024 Earnings Call Transcript
+Quartr
+Provided by Quartr
+February 4, 2025
+Presentation
+Skip to Participants
+Operator
+00:00:00
+My name is Julianne, and I will be your conference facilitator today for Amgen's fourth quarter and full year twenty twenty four financial results conference call. All lines have been placed on mute to prevent any background noise. There will be a question and answer session at the conclusion of the last speaker's prepared remarks. In order to ensure that everyone has a chance to participate, we would like to request that you limit yourself to asking one question during the Q and A session. I would now like to introduce Justin Clays, Vice President of Investor Relations.
+
+Operator
+00:00:36
+Mr. Clays, you may now begin.
+
+Justin Claeys
+Justin Claeys
+VP of IR at Amgen
+00:00:40
+Thank you, Julianne. Good afternoon, everyone, and welcome to our fourth quarter twenty twenty four earnings call. Bob Bradway will lead the call and be followed by a broader review of our performance by Myrtle Gordon, Jay Bradner and Peter Griffith. Through the course of our discussion today, we will use non GAAP financial measures to describe our performance and have provided appropriate reconciliations within the materials that accompany this call. We will also make some forward looking statements, which are qualified by our Safe Harbor statement.
+
+Justin Claeys
+Justin Claeys
+VP of IR at Amgen
+00:01:10
+And please note that actual results can vary materially. Over to you, Bob.
+
+Robert Bradway
+Robert Bradway
+Chairman, CEO & President at Amgen
+00:01:15
+Good afternoon, everyone, and thank you for joining us today. 2024 capped another year of strong execution at Amgen. Our operations teams supplied every patient every time. Our clinical teams reliably delivered quality results across the portfolio and our commercial teams grew the business across our four therapeutic areas and in each of our geographic regions. The operating rhythm that we've established in our business will serve us well for 2025 and the longer term.
+
+Robert Bradway
+Robert Bradway
+Chairman, CEO & President at Amgen
+00:01:48
+Looking ahead, our objective is to deliver long term growth, while navigating regulatory and political change, declining net prices and losses of exclusivity. We have a track record of doing just that. If you consider the past decade, we grew revenues above a mid single digit percent level and EPS at approximately 9% per year over the period despite facing biosimilar and generic competition across products that accounted for about 50% of our revenues. As we look to the next decade, our novel medicines are well positioned to address patient demographics in a rapidly changing world and we expect that our operating discipline to enable us to scale to meet the needs of patients while continuing to deliver for our shareholders. Reflecting on our marketed products in 2024, we exited the fourth quarter with 14 medicines each annualizing at over $1,000,000,000 and notably several of these will be key drivers of growth through the decade.
+
+Robert Bradway
+Robert Bradway
+Chairman, CEO & President at Amgen
+00:02:51
+Let me highlight a few. Starting in general medicine, Repatha and Aventity continue to deliver attractive growth. Heart disease remains the leading cause of death globally and Repatha now a multi billion dollar product continues to expand as access improves worldwide. We are the leader worldwide in bone health addressing the huge need for fracture prevention in those living with osteoporosis. The clinical performance of EVENITY since its launch demonstrates the leading role it can play in reducing fracture risk for millions of postmenopausal women.
+
+Robert Bradway
+Robert Bradway
+Chairman, CEO & President at Amgen
+00:03:29
+In rare diseases, twenty twenty five will be an exciting year. We look forward to regulatory approvals for TAPESA internationally and launches in new indications for Euplizna further strengthening the growth trajectory of our rare disease business. In inflammation, we continue to be inspired by the strong performance of TESSPIRE and the progress we're making advancing into new indications, including COPD, which is the third leading cause of death, where we intend to initiate Phase III studies. And of course, in chronic rhinosinusitis, which runs in parallel with other respiratory diseases. In oncology, our leading bispecific T cell engager platform provides further opportunities for growth with Blincyto moving into frontline treatment and demonstrating compelling survival benefit in B ALL.
+
+Robert Bradway
+Robert Bradway
+Chairman, CEO & President at Amgen
+00:04:23
+Imdelta showing impressive efficacy in hard to treat small cell lung cancer and zalyoritimig advancing into Phase III in advanced prostate cancer. Twenty twenty five promises to be another milestone year for our rapidly advancing pipeline with important Phase III data readouts for programs including across our general medicine, rare disease, inflammation and oncology miratide in obesity and related conditions. This is an exciting time for innovation in our laboratories, in our factories with the science of manufacturing and in leveraging technology across the company. When it comes to artificial intelligence, we're finding new opportunities across our business and AI is helping us deliver innovative medicines to more patients even faster. To wrap up, 2024 demonstrated the strength of our business, the depth and breadth of our portfolio and the power of our pipeline.
+
+Robert Bradway
+Robert Bradway
+Chairman, CEO & President at Amgen
+00:05:27
+As we step into 2025, we're poised to deliver continued growth and innovation in the near term through 02/1930 and beyond. And I want to thank our global team for their exceptional contributions and dedication to our mission. With that, I'll turn it over to Murdo for an update on our commercial organization.
+
+Murdo Gordon
+Murdo Gordon
+Executive VP of Global Commercial Operations at Amgen
+00:05:46
+Thanks, Bob. In the fourth quarter, product sales grew 11% year over year, capping off
+
+Murdo Gordon
+Murdo Gordon
+Executive VP of Global Commercial Operations at Amgen
+00:05:51
+a year of growth fueled by strong execution across the business. For the full year product sales grew nineteen percent and ten products grew by double digits or better creating strong momentum for growth in 2025 and beyond. Two products on a strong growth trajectory are Repatha and EVENITY, which together grew 35% year over year driven by 39% volume growth and accounting for nearly $1,000,000,000 in sales growth in the year. Both of these important brands serve large patient populations that are mostly untreated despite the availability of highly impactful therapies, indicating robust growth potential. Repatha sales increased 36% in 2024 reaching over $2,200,000,000 in sales.
+
+Murdo Gordon
+Murdo Gordon
+Executive VP of Global Commercial Operations at Amgen
+00:06:39
+There are one hundred million patients globally in need of effective treatment for lowering their LDL C. And we see strong potential for growth of Repatha around the world as physicians, patients and payers recognize the importance of therapies like Repatha for patients at risk of major cardiovascular events. In The United States, Repatha sales grew 44% in 2024 with volume growth of 54%. The majority of patients with elevated LDL C are in the primary care setting. And in 2024, our increased investment focus on primary care physicians improved the number of Repatha prescribers by 50%, supporting future growth strategy.
+
+Murdo Gordon
+Murdo Gordon
+Executive VP of Global Commercial Operations at Amgen
+00:07:25
+Our direct to patient education efforts doubled the number of patients who who asked their doctor for Repatha. Volume growth was further supported by Repatha's broad access and reimbursement and we see more payers seeking to ease or even remove prior authorization barriers making Repatha more accessible and affordable for patients. Cardiologists and primary care physicians reported in a recent survey that Repatha access has improved significantly versus two years ago. Outside The U. S, Repatha continues to grow across major markets despite increased competition in the segment.
+
+Murdo Gordon
+Murdo Gordon
+Executive VP of Global Commercial Operations at Amgen
+00:08:02
+Over the past several years, the price of Repatha has been impacted by an expansion of coverage in The U. S. And the growth of new markets around the world. Moving forward, we expect less price erosion for Repatha with 2025 net price expected to decline by mid single digits or less. EVENITY sales increased 35% in 2024 reaching almost $1,600,000,000 in sales.
+
+Murdo Gordon
+Murdo Gordon
+Executive VP of Global Commercial Operations at Amgen
+00:08:30
+EVENITY is the only therapeutic that both builds bone and slows resorption, which can play a critical role in reducing fracture risk for millions of women who are postmenopausal. Despite the significant need, only two hundred and ten thousand patients in The U. S. Have been treated with EVENITY to date, while millions remain at risk. With over ninety percent of very high risk patients not currently receiving appropriate treatment, we see a significant opportunity to grow EVENITY in 2025 and beyond.
+
+Murdo Gordon
+Murdo Gordon
+Executive VP of Global Commercial Operations at Amgen
+00:09:03
+In The U. S, Aveniti continues to be the segment leader in the bone builder market. We drove a 14% quarter over quarter increase in new customers ordering Aveniti and saw an increase in prescription volume from both established and new EVENITY prescribers. We've increased our investment in EVENITY and have fully shifted the focus of our U. S.
+
+Murdo Gordon
+Murdo Gordon
+Executive VP of Global Commercial Operations at Amgen
+00:09:25
+Bone Fieldforce towards EVENITY. I'll move to our rare disease portfolio which delivered over 4,500,000,000 in sales in 2024. TAPESA, our largest product in the rare disease portfolio generated sales of $1,900,000,000 in the year, representing 5% year on year growth. Since launch, TAPESZA has had a positive impact for thousands of patients living with thyroid eye disease. There are roughly one hundred thousand patients suffering from thyroid eye disease in The U.
+
+Murdo Gordon
+Murdo Gordon
+Executive VP of Global Commercial Operations at Amgen
+00:09:55
+S. Who could benefit from TAPESZA and to reach them, we've intensified our efforts to engage a broad prescriber base of oculoplastic surgeons, ophthalmologists and endocrinologists. We're moving quickly in international markets to secure regulatory approval for TAPESA, which will drive additional growth. And we've successfully launched TAPESA in Japan, where it's the first and only medicine approved to treat active thyroid eye disease. In 2025, we expect to launch TAPESA in seven additional countries.
+
+Murdo Gordon
+Murdo Gordon
+Executive VP of Global Commercial Operations at Amgen
+00:10:29
+In inflammation, TESTBIR continues a strong trajectory with nearly $1,000,000,000 in sales in the year, a 71% year over year increase. We've driven increased adoption by pulmonologists supported by TESTBIR's unique profile to treat patients with multiple severe uncontrolled asthma triggers and drivers. Testfire has strong future growth potential given the need to treat the two point five million patients worldwide with severe uncontrolled asthma. Our innovative oncology portfolio including Blincyto, Lumacraz, Spectabix, Kyprolis, Enplate, XGEVA and Imdelta contributed almost $8,000,000,000 in sales for the full year. Year over year sales grew 11% driven by volume growth and higher net selling price.
+
+Murdo Gordon
+Murdo Gordon
+Executive VP of Global Commercial Operations at Amgen
+00:11:16
+Our leading bispecific T cell engager platform, which developed Blinccyto and Indaltra continues to address critical unmet needs in oncology, while providing significant opportunities for future growth. LENCHYTO sales grew 41% for the full year, reaching over $1,200,000,000 in sales. We expect continued strong growth in 2025, driven by broad prescribing across academic and community segments. Physician prescribing is growing and compelling new clinical data is redefining BLINCYTO as the standard of care for both adult and pediatric patients with Philadelphia chromosome negative B cell ALL. Our U.
+
+Murdo Gordon
+Murdo Gordon
+Executive VP of Global Commercial Operations at Amgen
+00:11:59
+S. Launch of Imdelta for the treatment of patients with extensive stage small cell lung cancer who are progressing on or after chemotherapy is off to a strong start, generating $115,000,000 in sales in seven months since launch. We see increasing breadth of adoption in both academic and community settings driven by strong clinical conviction for IN DELTARA's transformational efficacy. INVELTRO has treated approximately two thousand patients since launch. Each year an estimated eight thousand to ten thousand patients progress to second line treatment for extensive stage small cell lung cancer.
+
+Murdo Gordon
+Murdo Gordon
+Executive VP of Global Commercial Operations at Amgen
+00:12:36
+Our medical and commercial teams are operating with urgency to bring in Delta to more patients living with this aggressive disease. Sales of our biosimilar products were $2,200,000,000 in 2024, an increase of 16% year over year. In the fourth quarter, our team readily executed the launch of PABLU, a biosimilar to EYLEA with nine weeks of sales totaling $31,000,000 Response from retina specialists to PABLO has been very positive with strong intent to purchase and administer this high quality antigen biosimilar delivered in an easy to use pre filled syringe. The next wave of biosimilar launches continues in 2025. In January, building on the strong introduction of PABLO at the end of twenty twenty four, we launched Wislana, a biosimilar to Solara.
+
+Murdo Gordon
+Murdo Gordon
+Executive VP of Global Commercial Operations at Amgen
+00:13:27
+And in the second quarter, we expect to launch Bekendi, a biosimilar to Soliris. With the Snyx wave of launches, we anticipate robust growth and attractive returns from our biosimilar portfolio. 2024 was a strong year of execution across Amgen. We view execution as a team effort. The tightly coordinated integration between research and development, manufacturing operations and our commercial teams enables us to serve record numbers of patients across the portfolio and around the world.
+
+Murdo Gordon
+Murdo Gordon
+Executive VP of Global Commercial Operations at Amgen
+00:14:01
+This relentless cross enterprise focus will accelerate our ability to reach even more patients with Amgen medicines in 2025. And with that, I'll hand it over to Jay.
+
+James Bradner
+James Bradner
+Executive VP of Research & Development and Chief Scientific Officer at Amgen
+00:14:14
+Thank you, Murdo, and good afternoon, everyone.
+
+James Bradner
+James Bradner
+Executive VP of Research & Development and Chief Scientific Officer at Amgen
+00:14:17
+At this time last year, we planned a very ambitious R and D agenda and I'm very proud to say we delivered, meeting or exceeding almost all enrollment targets and generating impact and value across the portfolio. Specifically in 2024, we received two important U. S. Regulatory approvals in oncology, completed five positive Phase three studies and initiated three new Phase three trials while advancing the broad Meritide program. Let's begin with Meritide, a therapy with unique, differentiated and highly competitive profile.
+
+James Bradner
+James Bradner
+Executive VP of Research & Development and Chief Scientific Officer at Amgen
+00:14:50
+Since our Phase II data disclosure last November, we have engaged extensively with key opinion leaders and have received strong enthusiasm and support. This excitement stems from Meritide's ability to deliver consistent, predictable and sustained weight loss through fifty two weeks without hitting a weight loss plateau and convenient monthly or less frequent dosing, a clear advantage over current weekly therapies. Additionally, key opinion leaders conveyed their excitement for robust and clinically meaningful improvements in cardiometabolic parameters, including hemoglobin A1c demonstrated by Meritide treatment. With a further optimized simple dose escalation schedule and significantly fewer injections per year, we expect to improve persistence and long term health outcomes. Meritide represents a promising treatment advance for people living with obesity and related conditions and we are committed to fully realizing its potential.
+
+James Bradner
+James Bradner
+Executive VP of Research & Development and Chief Scientific Officer at Amgen
+00:15:49
+In the first half of twenty twenty five, we expect to initiate the first studies in our broad Phase III maritime program and expect to present the full MARITIDE Phase II data set at a major medical congress. In the second half of twenty twenty five, we expect key data readouts from both the ongoing Phase II Type II diabetes study and Part II of the ongoing Phase II chronic weight management study. Beyond Meritide, in general medicine, we look forward to data from the Repatha Vassalius Phase III primary prevention study in the second half of this year. Having demonstrated profound and sustained benefit of Repatha in the secondary prevention setting, we're excited about these data and the opportunity to reach additional patients at high risk of a first cardiovascular event. Turning to opaciran, our promising best in class small interfering RNA medicine targeting Lp, we are bringing a precision medicine to cardiovascular risk reduction for the many individuals with Lp elevation.
+
+James Bradner
+James Bradner
+Executive VP of Research & Development and Chief Scientific Officer at Amgen
+00:16:52
+The fully enrolled OCEAN A Phase three cardiovascular outcomes trial of opaciran continues to progress and we expect to initiate an additional Phase three outcome study in patients with elevated Lp and at high risk for a first cardiovascular event late this year or in the first half of twenty twenty six. Shifting to rare disease, we are very excited about Aplisna's potential to serve even more patients facing rare inflammatory illnesses. In 2024, we generated compelling data from the Aplisna Phase three mitigate study in patients with IgG4 related disease, a serious inflammatory condition with no approved therapies. These data are now under FDA priority review with a PDUFA date of 04/03/2025. The FDA also granted orphan drug designation to Aplisna for the treatment of generalized myasthenia MYST study.
+
+James Bradner
+James Bradner
+Executive VP of Research & Development and Chief Scientific Officer at Amgen
+00:17:50
+This study showed Aplizna to be highly effective on multiple clinical outcomes also reducing the need for steroids with patient centered convenient dosing. We eagerly anticipate the fifty two week data later this year, which will provide further insight into response and long term durability. With two anticipated approvals on the horizon in IgG4 related disease and generalized myasthenia gravis, we are more confident than ever about Aplisna's expanding impact on the management of rare inflammatory diseases. In inflammation, we remain on track to initiate Phase three studies of TESBIRE in COPD targeting patients with moderate to very severe COPD with blood eosinophil counts greater than or equal to 150 cells per microliter. COPD is the world's third leading cause of death and we're excited about the impact TESBIRE could have in this setting.
+
+James Bradner
+James Bradner
+Executive VP of Research & Development and Chief Scientific Officer at Amgen
+00:18:44
+Beyond COPD, regulatory submissions are underway in chronic rhinosinusitis with nasal polyps supported by positive Phase three data and we continue advancing a Phase three study in eosinophilic esophagitis. The rocatinolumab Phase three ROCKET program in atopic dermatitis is progressing with additional data expected throughout 2025. These studies will provide deeper insight into rocatinolumab's profile. Beyond atopic dermatitis, we continue to explore rocatenlimab in moderate to severe asthma and inferrigo nodularis, a chronic skin condition characterized by extreme itchiness. As previously indicated, we are pursuing B cell depletion in autoimmune disease with both blinatumumab and ineboluzumab.
+
+James Bradner
+James Bradner
+Executive VP of Research & Development and Chief Scientific Officer at Amgen
+00:19:30
+Our initial focus is on systemic lupus erythematosus with plans to expand into additional indications. 2025 will be an important year in oncology where we expect three key Phase three data readouts. I will start with our rapidly advancing BiTE portfolio. Last December, very exciting Blinn Cyto data were shared at ASH and published simultaneously in the New England Journal of Medicine. In a Phase three study conducted by the Children's Oncology Group, Blinccyto added to chemotherapy improved three year disease free survival to ninety six percent
+
+James Bradner
+James Bradner
+Executive VP of Research & Development and Chief Scientific Officer at Amgen
+00:20:05
+compared
+
+James Bradner
+James Bradner
+Executive VP of Research & Development and Chief Scientific Officer at Amgen
+00:20:05
+to eighty eight percent with chemotherapy alone in the upfront treatment of pediatric B cell acute lymphoblastic leukemia. We are also advancing a subcutaneous formulation of blinatumumab with a potentially registration enabling study in adults and adolescents with relapsed refractory B ALL expected to begin in the second half of twenty twenty five. Based on our experience to date, subcutaneous blinatumumab has the potential to improve the patient experience, efficacy and tolerability. Our second approved BiTE therapy, ImDeltra, a first in class bispecific T cell engager targeting DLL3 for small cell lung cancer is rapidly advancing into earlier lines of therapy. Phase three studies are ongoing in both extensive stage and limited stage disease.
+
+James Bradner
+James Bradner
+Executive VP of Research & Development and Chief Scientific Officer at Amgen
+00:20:54
+Data from Delphi304 are expected in the first half of twenty twenty five. This study compares ImdeltaRA with standard of care chemotherapy in second line extensive stage small cell lung cancer. Our first in class, STEEP-one, CV3 bispecific T cell engager, zelaridimig, has entered Phase III clinical development with a study in post taxane metastatic castrate resistant prostate cancer. We are also exploring Xeleridomega in combination therapy and in earlier lines of prostate cancer with multiple Phase 1b studies ongoing. We remain excited about the growth potential of our BiTE platform and the opportunity to reach additional cancer patients with Placido, Imdeltra and zalaridimin.
+
+James Bradner
+James Bradner
+Executive VP of Research & Development and Chief Scientific Officer at Amgen
+00:21:38
+Beyond our T cell engagers, bamiratuzumab, our first in class fibroblast growth factor receptor 2b directed monoclonal antibody is advancing to frontline gastric cancer therapy. We expect data in the first half of twenty twenty five from FORTITUDE-one hundred and one, a Phase three study of amerituzumab combined with M FOLFOX six chemotherapy versus chemotherapy alone. In the second half of twenty twenty five, we expect data from an analysis of FORTITUDE-one hundred and two, a Phase three study of bamrituzumab combined with chemotherapy and nivolumab. On biosimilars, we are rapidly advancing three Phase three programs evaluating our biosimilars to Opdivo, KEYTRUDA and Acrevus, the next wave of Amgen biosimilar products. In closing, I want to thank my Amgen colleagues for their unwavering commitment to patients facing grievous illnesses and for their focus and collaboration throughout a highly productive 2024.
+
+James Bradner
+James Bradner
+Executive VP of Research & Development and Chief Scientific Officer at Amgen
+00:22:35
+We look forward to an exciting year ahead and continued pipeline momentum. I'll now turn it over to Peter.
+
+Peter Griffith
+Peter Griffith
+Executive VP & CFO at Amgen
+00:22:41
+Thank you, Jay. We're pleased with our execution excellence in the fourth quarter and for the full year 2024 and we remain on track with our long term objectives. The financial results are shown on Slides 28 to 30 of the slide deck.
+
+Peter Griffith
+Peter Griffith
+Executive VP & CFO at Amgen
+00:22:56
+Full year total revenues of $33,400,000,000 grew 19% year over year driven by 21 products with record sales. Product sales increased 19% year over year, driven by 23% volume growth. Excluding products acquired from Horizon, product sales for the full year increased 7% year over year, driven by 11% volume growth. For the full year, we delivered a non GAAP operating margin of 47%. We continue to invest in advancing our pipeline with non GAAP R and D spend increasing 25% year over year for the full year to a record $5,900,000,000 due to investments in the late stage pipeline, including Meritide, rocatinlimab, bemarituzumab and Dimdeltra as well as Horizon acquired programs.
+
+Peter Griffith
+Peter Griffith
+Executive VP & CFO at Amgen
+00:23:51
+Excluding Horizon, non GAAP R and D spending increased 15% year over year. The Horizon integration is progressing well and we expect to reach the previously announced $500,000,000 in pre tax cost synergies by year three post acquisition. The acquisition was accretive to non GAAP EPS for the full year 2024. Full year non GAAP other income and expense was up $1,100,000,000 year over year almost entirely due to increased interest expense from the Horizon acquisition. We continue to strengthen our balance sheet with $4,500,000,000 of debt retired in 2024.
+
+Peter Griffith
+Peter Griffith
+Executive VP & CFO at Amgen
+00:24:34
+Our non GAAP tax rate decreased two percentage points year over year to 14.5% for the full year, primarily due to the change in earnings mix, including the addition of the Horizon business and net favorable items. The company generated $10,400,000,000 in free cash flow for the full year and $4,400,000,000 in free cash flow in the fourth quarter. These results reflect strong momentum in the business and favorable timing of collections at year end. We executed capital expenditures in 2024 of $1,300,000,000 in line with the guidance provided with the cash outflow being $1,100,000,000 and the remainder to be paid in 2025. Our commitment to innovation is also evident as we deploy artificial intelligence across the value chain, including informing molecule design and discovery research, enabling faster trial enrollment and streamlining regulatory filings in clinical development and enhancing our responsiveness to customers in commercial operations.
+
+Peter Griffith
+Peter Griffith
+Executive VP & CFO at Amgen
+00:25:42
+In addition, we returned capital to shareholders as we paid competitive dividends of $2.25 per share in the fourth quarter. This represented a 6% increase compared to 2023. We expect that we will continue to increase our dividend. Let's turn to the outlook for the business for 2025 on Slide 31. We expect our 2025 total revenues in the range of $34,300,000,000 to $35,700,000,000 and non GAAP earnings per share between $20 and $21.2 Our revenue range reflects our strong growth outlook driven by numerous opportunities across each of our therapeutic areas.
+
+Peter Griffith
+Peter Griffith
+Executive VP & CFO at Amgen
+00:26:30
+We expect continued growth across a number of products led by our near term growth drivers Repatha, Aavenity, Tezfire, our innovative oncology portfolio, our rare disease portfolio and biosimilars. This growth will more than offset declines due to the upcoming denosumab patent expiration as well as continued price declines across our portfolio in 2025. For total company revenues, we expect each quarter of twenty twenty five to have a relatively similar year over year growth rate. A reminder as you model the first quarter of twenty twenty five and consistent with our historical trends, we expect Otezla and Embro to follow their typical pattern of lower sales in the first quarter relative to subsequent quarters. Also note that biosimilar sales in The U.
+
+Peter Griffith
+Peter Griffith
+Executive VP & CFO at Amgen
+00:27:28
+S. Can significantly vary quarter to quarter depending on customer ordering patterns. For example, we expect Q1 AMGA Vida sales in The U. S. To be in line with Q3 twenty twenty four.
+
+Peter Griffith
+Peter Griffith
+Executive VP & CFO at Amgen
+00:27:43
+For the full year, we expect other revenue to be approximately $1,400,000,000 In 2025, we are driving R and D investments to support our promising late stage pipeline, including Meritide and Opasoram. As a result, we project the full year non GAAP operating margin as a percentage of product sales to be roughly 46%. We project non GAAP cost of sales to be in the range of 18% to 19% as a percentage of product sales for 2025. This projection reflects the ongoing impact of sales mix, including profit share and royalties. We expect non GAAP R and D expense to grow year over year in the mid teens in 2025 with investments increasing to advance key pipeline assets, including Meritide and Opasoram.
+
+Peter Griffith
+Peter Griffith
+Executive VP & CFO at Amgen
+00:28:38
+We see significant potential in our innovative pipeline and it is important that we strategically invest now to fully unlock these opportunities. And for the non GAAP SG and A spend, we expect the 2025 full year amount as a percentage of product sales to decline by approximately one to two percentage points year over year as we continue to drive efficiencies and prioritize resources, including leveraging both automation and our newly established innovation and technology hub in India. Overall, the operating margin of roughly 46% indicates our commitment to investing in the best innovation, while also driving execution excellence, efficiency and prioritization across the organization. Consistent with prior years and in line with typical lower product sales in Q1, we expect Q1 non GAAP operating margin to be the lowest of the year at roughly 42% and then accelerate in each of the quarters following the first quarter. We anticipate non GAAP OI and E to be approximately 2,400,000,000 in 2025.
+
+Peter Griffith
+Peter Griffith
+Executive VP & CFO at Amgen
+00:29:53
+We expect a non GAAP tax rate of 15% to 16%. Similar to 2024, we expect share repurchases not to exceed $500,000,000 in 2025 and we expect the share count in the first quarter of twenty twenty five to be flat to the fourth quarter of twenty twenty four. We expect capital expenditures of approximately $2,300,000,000 in 2025. This is consistent with our capital allocation priority to invest in our business and scale capacity for growth in marketed products and the pipeline. We expect to maintain strong investment grade credit ratings as we continue to generate strong free cash flows, strengthen our balance sheet and remain on track to return to our pre horizon capital structure by the end of twenty twenty five.
+
+Peter Griffith
+Peter Griffith
+Executive VP & CFO at Amgen
+00:30:50
+In 2025, we expect free cash flow performance to be similar to 2023. This decline is primarily driven by 2024 working capital favorability and incremental capital expenditures. Free cash flow in the first half of twenty twenty five will be impacted by strong 2024 year end collections timing. The shift in 2024 tax payments to the second quarter of twenty twenty five and also the final $1,800,000,000 repatriation tax payment in the second quarter of twenty twenty five. Our long term outlook remains strong and I'm grateful to our colleagues worldwide for their dedication to serving patients.
+
+Peter Griffith
+Peter Griffith
+Executive VP & CFO at Amgen
+00:31:36
+This concludes our financial update. I'll now hand it back to Bob for our Q and A session.
+
+Robert Bradway
+Robert Bradway
+Chairman, CEO & President at Amgen
+00:31:44
+Okay. Just to recap before we go to the Q and A session. As you can see, our results highlight the breadth and depth of opportunities across our business. And we exited the fourth quarter with 10 products growing at double digit sales rates and 14 products annualizing at over $1,000,000,000 And for the year to repeat, we had 21 products delivering record sales. So this momentum supports our outlook for 2025 and through the long term.
+
+Robert Bradway
+Robert Bradway
+Chairman, CEO & President at Amgen
+00:32:11
+And with that, we'd be happy to take questions.
+
+Justin Claeys
+Justin Claeys
+VP of IR at Amgen
+00:32:14
+Julienne, if you could please remind our participants of the procedures here.
+
+Operator
+00:32:19
+Certainly. Thank you. Our first question comes from Yaron Werber from TD Cowen. Please go ahead. Your line is open.
+
+Yaron Werber
+Yaron Werber
+Analyst at Cowen
+00:32:39
+Great. Thanks for taking my question. Maybe just a couple of things on five fourteen, the one that's on clinical hold for obesity. Can you comment with that in incretin or not in incretin mechanism? And then secondly, maybe just for Murdo, a few things looked really strong.
+
+Yaron Werber
+Yaron Werber
+Analyst at Cowen
+00:32:59
+And Javedo was extremely strong at February. Is that sustainable from now on? What drove that? Thank you.
+
+Robert Bradway
+Robert Bradway
+Chairman, CEO & President at Amgen
+00:33:07
+All right. We'll take it in two parts. Jay, you want to address the five thirteen, I think it is.
+
+James Bradner
+James Bradner
+Executive VP of Research & Development and Chief Scientific Officer at Amgen
+00:33:11
+Thanks, Yaron. AMG five thirteen is a novel investigational medicine for patients with obesity is currently in Phase one investigation. We have not disclosed the mechanism of action. This remains a competitive space as you know.
+
+Murdo Gordon
+Murdo Gordon
+Executive VP of Global Commercial Operations at Amgen
+00:33:26
+And Yaron, it's Myrtle here. We're pleased with overall biosimilars performance and our biosimilar portfolio, as I mentioned, last year grew about 16% and we're confident we can continue to grow that portfolio going forward, one of which of those growth contributors will be ANGAVEDA.
+
+Yaron Werber
+Yaron Werber
+Analyst at Cowen
+00:33:45
+Great.
+
+Justin Claeys
+Justin Claeys
+VP of IR at Amgen
+00:33:45
+Julien, we'll go to the next question. I will remind folks we
+
+Justin Claeys
+Justin Claeys
+VP of IR at Amgen
+00:33:47
+have quite a full queue today. So if
+
+Justin Claeys
+Justin Claeys
+VP of IR at Amgen
+00:33:49
+you can limit yourselves to one question, that'd be great.
+
+Operator
+00:33:52
+Thank you, Yaron. Our next question comes from Courtney Breen from Bernstein. Please go ahead. Your line is open.
+
+Courtney Breen
+Senior Research Analyst at Bernstein
+00:34:00
+Hi. Well, thanks for taking my question today. I wanted
+
+Courtney Breen
+Senior Research Analyst at Bernstein
+00:34:03
+to ask a little bit
+
+Courtney Breen
+Senior Research Analyst at Bernstein
+00:34:04
+about Rhopasa. Obviously, we're seeing kind of strong growth there and there's new indications coming, particularly in the primary prevention space. Can you just talk a little bit about kind of how you anticipate this market evolving as we think about the oral PCSK9s and Merck's coral reef lipids trial that is also scheduled to read out later this year. There seem to be suggestions that that could perform as well as an injectable in terms of the efficacy. So just wanting to understand how you would position?
+
+Courtney Breen
+Senior Research Analyst at Bernstein
+00:34:35
+Thank you.
+
+Murdo Gordon
+Murdo Gordon
+Executive VP of Global Commercial Operations at Amgen
+00:34:36
+Yes. Thanks, Courtney. We're obviously very pleased with the performance of Repatha in 2024, putting up some very strong growth both in volume and in revenues, both in The U. S. And outside of The United States.
+
+Murdo Gordon
+Murdo Gordon
+Executive VP of Global Commercial Operations at Amgen
+00:34:53
+And we expect to see that continue. We expect to be able to treat the many patients who have not had their LDL cholesterol optimized. And there's millions upon millions of these patients. We are barely scratching the surface when it comes to treating them. And we think that Repatha offers a really ideal solution for patients to receive it and for prescribers to prescribe it.
+
+Murdo Gordon
+Murdo Gordon
+Executive VP of Global Commercial Operations at Amgen
+00:35:21
+What we're really pleased about is the perception amongst prescribers now that Repatha is an easy to access medicine and an affordable medicine. And that's thanks to the efforts of our access teams around the world making sure that Repatha is appropriately reimbursed and positioned on formularies with PBMs. And we've been successfully removing those barriers. So we really are an inflection point in Repatha's performance and feel very, very good about the trajectory and momentum we established in 2024. With respect to new competition, obviously, there's more than just LDL cholesterol lowering evidence that needs to be introduced here.
+
+Murdo Gordon
+Murdo Gordon
+Executive VP of Global Commercial Operations at Amgen
+00:36:02
+Repatha has clearly demonstrated benefit in secondary prevention of heart attacks, strokes and other cardiovascular sequelae. And the goal, of course, as you mentioned is that with Vesalius, which reads out later this year that we'll be able to show that you can actually lower the risk of a first heart attack or stroke or other cardiovascular event. So we're kind of we're in the mode of helping treat hard endpoints now in this market and not just lowering LDL. So we'll see what the evidence is and how it accumulates with not just the orals, but other competitors that are
+
+Operator
+00:36:49
+Thank you, Courtney. Our next question comes from Salveen Richter from Goldman Sachs. Please go ahead. Your line is open.
+
+Salveen Richter
+Salveen Richter
+Biotechnolgy Equity Research at Goldman Sachs
+00:36:56
+Good afternoon. Thanks for taking my question. In the context of your 2025 sales guidance, can you speak to where you feel the street is under appreciating growth and discuss how you factored in the Part D redesign to your projection? Thank you.
+
+Robert Bradway
+Robert Bradway
+Chairman, CEO & President at Amgen
+00:37:11
+Let me take it in two pieces. Myrtle, why don't you first start on the Part D redesign and then Pete, why don't you jump in? Sure.
+
+Murdo Gordon
+Murdo Gordon
+Executive VP of Global Commercial Operations at Amgen
+00:37:19
+Yes, the Part D redesign at a total portfolio level for us is relatively neutral between
+
+Murdo Gordon
+Murdo Gordon
+Executive VP of Global Commercial Operations at Amgen
+00:37:31
+you you
+
+Murdo Gordon
+Murdo Gordon
+Executive VP of Global Commercial Operations at Amgen
+00:38:09
+given that chronic care cardiovascular products at an affordable price like Repatha tend to do well when patients out of pocket is capped and smooth. And that's what we believe will happen for products like Repatha going forward. Peter?
+
+Peter Griffith
+Peter Griffith
+Executive VP & CFO at Amgen
+00:38:25
+Great. Myrtle, thank you. Salveen, thank you for the question. I would just remind you what we've said which is let's start from 10 products with double digit growth in 2024 over 2023, '14 products annualizing or at blockbuster status of $1,000,000,000 or more and 21 that were records in 2024. So strong end market portfolio Salveen.
+
+Peter Griffith
+Peter Griffith
+Executive VP & CFO at Amgen
+00:38:54
+So when we're on to think about, Murdo talked about Repatha. So as he said 100,000,000 people around the world needing treatment. This value is coming later this year and less price erosion maybe mid single digit or less this year on that. He talked about the strong access globally. So we expect Repatha to continue to be a strong medicine going forward.
+
+Peter Griffith
+Peter Griffith
+Executive VP & CFO at Amgen
+00:39:19
+And the second on EVENITY, it's got low single digit penetration, greater than ninety percent of the high risk patients in The U. S. Haven't been treated. And there's a significant unmet need there with EVENITY. So we think those two are very, very important.
+
+Peter Griffith
+Peter Griffith
+Executive VP & CFO at Amgen
+00:39:36
+But let me also share your test fire up seventy one percent in 2024 to almost $1,000,000,000 I think it was $972,000,000 of product sales. Innovative oncology up 11%, the seven innovative oncology products we have in 2024. We think that's a very strong portfolio to help patients with oncology and hematology disease, rare disease up to about $4,500,000,000 in 2024. And reminder, these are early low and when we think about those four, we see a lot of growth there and a lot of opportunities. Then we get to biosimilars.
+
+Peter Griffith
+Peter Griffith
+Executive VP & CFO at Amgen
+00:40:17
+We shared with you 16% growth up to about $2,200,000,000 in 2024. We've got some launches coming this year. And so we continue to see a lot of growth in that. So we think there's a lot of opportunity to continue to grow this business in a strong way in 2025 and going forward. And as I shared in my opening remarks, we see that driving us right past the expiry on denosumab.
+
+Peter Griffith
+Peter Griffith
+Executive VP & CFO at Amgen
+00:40:49
+So I'll leave it there, but we're very pleased with the business. And most importantly, we expect more medicine to more patients in 2025 around the world.
+
+Justin Claeys
+Justin Claeys
+VP of IR at Amgen
+00:41:00
+All right, Julien. Let's go to the next question please.
+
+Operator
+00:41:04
+Salveen, our next question comes from David Amsellem from Piper Sandler. Please go ahead. Your line is open.
+
+David Amsellem
+David Amsellem
+Sr. Research Analyst at Piper Sandler Companies
+00:41:13
+Thanks. So I wanted to switch gears and get your thoughts on some of the Horizon products. KRYSTEXXA, how are you thinking about the growth runway there and the potential for biosimilar down the road? And then also how you're thinking about the competitive landscape for TAPESA? Thanks.
+
+Robert Bradway
+Robert Bradway
+Chairman, CEO & President at Amgen
+00:41:35
+Sure. Margo, you want to?
+
+Murdo Gordon
+Murdo Gordon
+Executive VP of Global Commercial Operations at Amgen
+00:41:36
+Yes. Thank you, David.
+
+Murdo Gordon
+Murdo Gordon
+Executive VP of Global Commercial Operations at Amgen
+00:41:40
+If we include the Horizon performance from the prior period, KRYSTEXXA was up 23%, VUPLISNA up 40%, TAPNIO is up 111% and TIPEZIA up 5%. So this is, as Peter mentioned, overall it's a portfolio of products very early on in their lifecycle. With more data to flow as is the case, of course, with Uplizna with our IGG IV data and additional gMG data coming on fifty two weeks. So we have a number of catalysts that will grow our business in The U. S.
+
+Murdo Gordon
+Murdo Gordon
+Executive VP of Global Commercial Operations at Amgen
+00:42:15
+And then we have catalysts for growth outside The U. S. With, of course, international launches and expansion, which is well underway with the recent approval of TAPESSA in Japan. With respect to KRYSTEXXA overall, again, even though KRYSTEXXA is part of our rare disease portfolio, severe uncontrolled gout is not a rare disease. It's not a rare condition.
+
+Murdo Gordon
+Murdo Gordon
+Executive VP of Global Commercial Operations at Amgen
+00:42:36
+There are lots of patients out there who suffer continuously. And with the immunomodulation data, we are now able to help many of those patients. And so we see continued robust opportunity for growth there. And we're also looking to develop additional pipeline assets. And so Jay and his team are looking at those opportunities.
+
+Justin Claeys
+Justin Claeys
+VP of IR at Amgen
+00:42:58
+All right,
+
+Justin Claeys
+Justin Claeys
+VP of IR at Amgen
+00:42:58
+Julien. We'll go to the next question please.
+
+Operator
+00:43:01
+Thank you, David. Our next question comes from Michael Yee from Jefferies. Please go ahead. Your line is open.
+
+Mike Yee
+Mike Yee
+Managing Director at Jefferies Financial Group
+00:43:07
+Hey, guys. Thanks for the question. Other than Maritide, you've had one or two obesity assets have some slip ups. Can you maybe comment about your strategic view about where you'd like to be in a couple of years if you are so confident on Meritide given that everyone's chasing a multiple asset portfolio including orals and you seem to be pretty early stage outside of Meritide. So maybe just comment about your appetite there and whether you can add to the portfolio?
+
+Mike Yee
+Mike Yee
+Managing Director at Jefferies Financial Group
+00:43:35
+Thank you.
+
+Robert Bradway
+Robert Bradway
+Chairman, CEO & President at Amgen
+00:43:36
+Sure. Mike, I'm not sure we'd accept the premise, but anyway, let's talk about the portfolio of obesity programs. Go ahead, Ajay.
+
+James Bradner
+James Bradner
+Executive VP of Research & Development and Chief Scientific Officer at Amgen
+00:43:42
+Yes. Thanks, Mike. Akin to what Bob said, I wouldn't call these slip ups at all. Early phase clinical investigation here at Amgen has a really high bar for what medicines go forward. And the next medicine up after Meritide did not meet that bar.
+
+James Bradner
+James Bradner
+Executive VP of Research & Development and Chief Scientific Officer at Amgen
+00:43:59
+Our obesity efforts fit very well with our strengths in cardiovascular disease, nephrology and more generally the emerging presence in primary care. And so we're very confident that we have all the talent capabilities, ideas and rising medicines to be a major player in obesity for the fullness of time, which we've studied for more than a decade. The research and early development pipeline has ideas targeting integrins, also non integrins. We have medicines that will be given orally, others by subcutaneous administration. We're also interested to open partnerships through external innovation.
+
+James Bradner
+James Bradner
+Executive VP of Research & Development and Chief Scientific Officer at Amgen
+00:44:34
+And so we're very confident in maritime and very confident in the pipeline behind it.
+
+Robert Bradway
+Robert Bradway
+Chairman, CEO & President at Amgen
+00:44:38
+Sorry, Jay, just to clarify one thing, the five thirteen is still we still expect to have that development. We don't believe the issue that we referenced is related to the drug, but we'll go through the usual steps with the regulators on that. But Jay was referring to another product that we're no longer advancing that was previously in the clinic. So when he said that didn't pass the hurdle. But again, we're excited about the program and the molecules that are coming forward to the clinic out of the obesity portfolio.
+
+Justin Claeys
+Justin Claeys
+VP of IR at Amgen
+00:45:11
+All right, Julien. Let's go to the next question please.
+
+Operator
+00:45:14
+Thank you, Michael. Our next question comes from Jay Olson from Oppenheimer. Please go ahead. Your line is open.
+
+Jay Olson
+Managing Director & Senior Analyst - Biotechnology at Oppenheimer & Co. Inc.
+00:45:21
+Hello. Hey, congrats.
+
+Robert Bradway
+Robert Bradway
+Chairman, CEO & President at Amgen
+00:45:24
+Jay, we can't hear you. Jay, sorry, we can't hear you. I want to take another start.
+
+Jay Olson
+Managing Director & Senior Analyst - Biotechnology at Oppenheimer & Co. Inc.
+00:45:42
+Can you hear better now?
+
+Robert Bradway
+Robert Bradway
+Chairman, CEO & President at Amgen
+00:45:44
+Yes, go ahead.
+
+Jay Olson
+Managing Director & Senior Analyst - Biotechnology at Oppenheimer & Co. Inc.
+00:45:46
+Okay.
+
+Jay Olson
+Managing Director & Senior Analyst - Biotechnology at Oppenheimer & Co. Inc.
+00:45:47
+Could you describe the key lessons you expect to learn from the Repatha Visalia CV outcome study results? How you can leverage those lessons across your portfolio including opaciran and Meritide and any synergies you plan to capture across these programs? Thank you.
+
+Robert Bradway
+Robert Bradway
+Chairman, CEO & President at Amgen
+00:46:06
+Sure. Jay?
+
+James Bradner
+James Bradner
+Executive VP of Research & Development and Chief Scientific Officer at Amgen
+00:46:06
+Sure. Why don't I start and then Myrtle invite you to speak to synergies and the like. We've learned a lot from Repatha already. We have a leading capability in population genetics and epidemiology and the now the broad use of her pathogen secondary prevention is a fantastic setup for VASALIA CV. As you know, this is a Phase three large cardiovascular outcome study of more than 12,000 patients, placebo controlled patients at high cardiovascular risk without prior MI or stroke.
+
+James Bradner
+James Bradner
+Executive VP of Research & Development and Chief Scientific Officer at Amgen
+00:46:37
+This is ongoing. We have an event driven readout expected in the second half of this year. This will be a large and valuable data set for us to mine to understand the further improvement of cardiovascular outcomes for patients as relates to LDL C, but also for other parameters. We have already harvested so many insights from Mirpassa and carried that into the design and execution of the Opasiran Phase three program, which as you heard is it has an event driven outcome expected a readout in the second half of
+
+James Bradner
+James Bradner
+Executive VP of Research & Development and Chief Scientific Officer at Amgen
+00:47:12
+next year. So very valuable data set that will no doubt prompt significant further insights.
+
+Murdo Gordon
+Murdo Gordon
+Executive VP of Global Commercial Operations at Amgen
+00:47:18
+Thanks, Jay. And the synergies here are significant and substantial given the leadership presence we have in LDL lowering and being able to apply that to LP lowering with elpacerin obviously is successful in the readout of our Phase III trial. I do think there's going to be some differences though given that LPa cannot be modified by lifestyle, diet and exercise.
+
+Murdo Gordon
+Murdo Gordon
+Executive VP of Global Commercial Operations at Amgen
+00:47:45
+There are no other generically available or branded available products that can lower Lp. We do think that the intentionality and the speed to move to a pharmacotherapeutic for Lp lowering will be different than it has been for LDL. But nonetheless, we're clearly engaged with all of the different stakeholders in the lipid lowering and atherosclerotic market and we're engaging them as appropriate to make sure that they understand the profile of Opasorin and the design of the trial that Jay mentioned and ultimately when we have results to share.
+
+Justin Claeys
+Justin Claeys
+VP of IR at Amgen
+00:48:24
+All right, Julien, let's go to the next question please.
+
+Operator
+00:48:27
+Thank you, Jay. Our next question comes from Alex Hammond from Wolfe Research. Please go ahead. Your line is open.
+
+Alexandria Hammond
+Director, Head of Therapeutics at Wolfe Research LLC
+00:48:34
+Thanks for taking the question. So with more and more companies looking to China for innovation, what is Amgen's stance on looking overseas for clinical stage assets? And And I guess more broadly, what is your appetite for M and A now post the Horizon acquisition? Thank you.
+
+Robert Bradway
+Robert Bradway
+Chairman, CEO & President at Amgen
+00:48:48
+We're our position on business development remains pretty consistent, Alex. We're focused on molecules that we think we can add value to irrespective of where they come from. So we have had and maintained a very active search for interesting opportunities for licensing and acquisition all around the globe. And we're open for business looking for those opportunities.
+
+Justin Claeys
+Justin Claeys
+VP of IR at Amgen
+00:49:12
+All right, Julien. Let's go to the next question please.
+
+Operator
+00:49:15
+Thank you, Alex. Our next question comes from Terence Flynn from Morgan Stanley. Please go ahead. Your line is open.
+
+Terence Flynn
+Terence Flynn
+Equity Research Analyst at Morgan Stanley
+00:49:22
+Hi. Thanks so much for the question. Also just wanted to say my thoughts are with all those Amgen employees and everyone in the LA area who's been impacted by the devastating wildfires. I had a two parter on Meritide. I know you're doing part two of the Phase two to explore quarterly dosing.
+
+Terence Flynn
+Terence Flynn
+Equity Research Analyst at Morgan Stanley
+00:49:40
+Just wondering if there's an interim look there, so you can incorporate that schedule into the Phase three program, if you decide to. And then was wondering if you can tell us if ADA is a fair assumption for presentation of the fulmaritide Phase two obesity data? Thank you.
+
+Robert Bradway
+Robert Bradway
+Chairman, CEO & President at Amgen
+00:49:55
+Sure. Shoney?
+
+James Bradner
+James Bradner
+Executive VP of Research & Development and Chief Scientific Officer at Amgen
+00:49:56
+Yes. Thanks, Terrence, for your question and really appreciate the call out for the associates here in the area residents facing these fires. We have, as you know, an ongoing Part two of our Phase two study in chronic weight management. That is a fifty two week study and we expect data readout late this year. I can confirm that we look forward to presenting the Phase two Part one data at the ADA meeting in June in Chicago and look forward to seeing you there.
+
+Justin Claeys
+Justin Claeys
+VP of IR at Amgen
+00:50:28
+All right, Julianne, next question please.
+
+Operator
+00:50:31
+Thank you, Terrence. Our next question comes from Dave Reisinger from Leerink Partners. Please go ahead. Your line is open.
+
+David Risinger
+Senior Managing Director & Senior Research Analyst at Leerink Partners
+00:50:39
+Yes. Thanks very much. So I have sort of a simple question. Clearly, you've provided a lot of helpful pipeline updates on the call. So thank you for that.
+
+David Risinger
+Senior Managing Director & Senior Research Analyst at Leerink Partners
+00:50:50
+So my question, Jay, is could you just explain why you're announcing today the plans to initiate a new Opasiran Phase three trial in high risk patients when it's not going to be initiated until late twenty five or early twenty six? What is pending initiating that trial? Thank you.
+
+Robert Bradway
+Robert Bradway
+Chairman, CEO & President at Amgen
+00:51:13
+Sorry, again, Dave, maybe I just clarify. I mentioned this in January at JPM in the context this is Bob speaking Dave in the context of what to expect for the year. But Jay, go ahead and address the specific piece of the question if you'd like.
+
+James Bradner
+James Bradner
+Executive VP of Research & Development and Chief Scientific Officer at Amgen
+00:51:25
+Yes. No, nothing more to add. We have already announced our intention to initiate a Phase III clinical investigation of opastran in primary prevention. This is a strong hypothesis for protecting patients with elevations of Lp and we hope to initiate this study intend to initiate this study in the second first half next year. We just have a total commitment to the benefit of patients facing, in this case, genetically defined risk of cardiovascular disease.
+
+Justin Claeys
+Justin Claeys
+VP of IR at Amgen
+00:51:58
+All right, Julien. Let's go to the next question, please.
+
+Operator
+00:52:02
+Thank you, Dave. Our next question comes from Chris Schott from JPMorgan. Please go ahead. Your line is open.
+
+Chris Schott
+Chris Schott
+Managing Director at JP Morgan
+00:52:08
+Great. Thanks so much. Just wanted to talk through Topeza, and just how we should be thinking about growth in both The U. S. And internationally here.
+
+Chris Schott
+Chris Schott
+Managing Director at JP Morgan
+00:52:16
+I guess, specifically, can you talk about ex U. S, The Japan opportunity in some of these new markets? And can we think about the rapid ramp that we saw in The U. S. Kind of repeating itself in those markets or are these more gradual ramps as these roll out?
+
+Chris Schott
+Chris Schott
+Managing Director at JP Morgan
+00:52:29
+Thank you.
+
+Murdo Gordon
+Murdo Gordon
+Executive VP of Global Commercial Operations at Amgen
+00:52:32
+Yes. Hi, Chris. It's Myrtle here. Thanks for the question on TAPASA. In Japan, the epidemiology is quite significant here, roughly 25,000 patients is what we're talking about.
+
+Murdo Gordon
+Murdo Gordon
+Executive VP of Global Commercial Operations at Amgen
+00:52:45
+The care model in Japan does reduce the friction that prescribers and patients experience in terms of finding access to the right physician and then access to a site of care. So we do expect there to be a pretty good uptake in this market. Not sure about the bolus dynamic that we saw in The United States that did have some impact because it was a launch during the COVID period. So I'm not sure I would compare curves there, but I would expect steady penetration of the Japanese patient population. We know there have been over five fifty patients already identified by prescribers.
+
+Murdo Gordon
+Murdo Gordon
+Executive VP of Global Commercial Operations at Amgen
+00:53:23
+I was there for the launch at the end of last year. The weekly data are showing some pretty good steady momentum. And so Japan will be a very good source of growth for TAVESSA internationally. As I mentioned, we've got seven other markets that we'll be launching in hopefully this year pending regulatory approvals. And we do see that international catalyst that international growth as a catalyst for the overall brand.
+
+Murdo Gordon
+Murdo Gordon
+Executive VP of Global Commercial Operations at Amgen
+00:53:49
+And it's obviously one of the things that drove the acquisition and the ability for Amgen's global footprint to bring these medicines to more patients. In The U. S, we continue to focus on broadening the prescriber base for Topeza. So helping general ophthalmology and endocrinology diagnose not just the Graves' disease, but also the thyroid eye disease and then find a site of care for patients to receive TETEZAH treatment. Just one overarching comment I'll make on TETEZAH.
+
+Murdo Gordon
+Murdo Gordon
+Executive VP of Global Commercial Operations at Amgen
+00:54:20
+It does follow the pattern we see in some other products in our portfolio where that first quarter this year will be a little bit lower than the other three quarters, mostly a function of people having their insurance reverified and or purchasing patterns in the market. So just something to watch out for. But long term, Tethysa growth is looking very good given the international approvals and the momentum that we plan to generate in The U. S.
+
+Justin Claeys
+Justin Claeys
+VP of IR at Amgen
+00:54:48
+All right, Julien, let's go to next question please.
+
+Operator
+00:54:51
+Thank you, Chris. Our next question comes from James Shinn from Deutsche Bank. Please go ahead. Your line is open.
+
+James Shin
+James Shin
+Director of Biopharma Equity Research at Deutsche Bank
+00:54:59
+Hey, guys. Thank you for taking my question. Any color on the indication for the maritime trials that will start in the first half twenty twenty five? And can you say anything on whether or not maritime will have head to head against incumbent such as tirzepatide or sema at this point? Thank you.
+
+James Bradner
+James Bradner
+Executive VP of Research & Development and Chief Scientific Officer at Amgen
+00:55:15
+Yes. Thank you, James.
+
+James Bradner
+James Bradner
+Executive VP of Research & Development and Chief Scientific Officer at Amgen
+00:55:16
+The maritime Phase three program has a focus on chronic weight management, on cardiovascular disease, kidney disease, type two diabetes, sleep apnea, heart failure and possibly additional indications. As our discussions are at a rather mature state with the federal regulators, it would be premature to talk through any design principles around these trials at this time. But we look very much forward to initiating the maritime Phase three program.
+
+Justin Claeys
+Justin Claeys
+VP of IR at Amgen
+00:55:45
+All right, Julien. Let's go to the next question please.
+
+Operator
+00:55:49
+Thank you, James. Our next question comes from Tim Anderson from Bank of America. Please go ahead. Your line is open.
+
+Tim Anderson
+Tim Anderson
+Managing Director, Senior Equity Research Analyst at Bank of America
+00:55:56
+Thank you. I know Amgen commonly says it doesn't get enough credit by the street for a biosimilar business. So I'd like to ask about that and just one product in particular, PAVLU, the EYLEA biosimilar. Why can't that be a very significant product for you guys as the only seller into that large market, probably for the next few years? It seems like it could get to $1,000,000,000 plus type sales level.
+
+Tim Anderson
+Tim Anderson
+Managing Director, Senior Equity Research Analyst at Bank of America
+00:56:26
+And can you give us some idea of what's in your 2025 guide for this? Thank you.
+
+Robert Bradway
+Robert Bradway
+Chairman, CEO & President at Amgen
+00:56:33
+Okay, Tim, we couldn't hear the very clearly the beginning of your question, but it seems that you're asking about biosimilars. Perhaps you suggested we don't get enough credit for what we do in biosimilars. If that's what you said, we're grateful. We are world leaders in biosimilars and our focus has been to reliably supply biosimilars when we're appropriately able to enter the market. And our objective is to be amongst the first wave of biosimilar entrants and that's what we've achieved with PAPBLO.
+
+Robert Bradway
+Robert Bradway
+Chairman, CEO & President at Amgen
+00:57:00
+But as to the specifics, Murdo, do you want to address Tim's question?
+
+Murdo Gordon
+Murdo Gordon
+Executive VP of Global Commercial Operations at Amgen
+00:57:04
+Yes. Tim, as you know, we don't give product specific guidance. But given your comments, I would say we're very pleased with how the launch is going. We, as Bob mentioned, always try to target being in the first wave. We find ourselves being the only biosimilar available in the market right now.
+
+Murdo Gordon
+Murdo Gordon
+Executive VP of Global Commercial Operations at Amgen
+00:57:24
+And of course, that represents an opportunity that we will capitalize on. The current feedback from retina specialists that we've been talking to is very enthusiastic, very positive. They are pleased that Amgen is bringing yet another high quality biosimilar in a very easy to use pre filled syringe. Given the number of administrations these retina specialists do each and every day, that device is quite important. And thanks to our legal colleagues and our manufacturing operations and process development teams, they've done a very, very nice job of making sure that we have a path to helping many more patients with another Amgen biosimilar.
+
+Peter Griffith
+Peter Griffith
+Executive VP & CFO at Amgen
+00:58:13
+Maybe to add on just a little bit, Murdo and Bob, I would suggest Tim, we've built what we think obviously is an industry leading biosimilar franchise. We operate very efficiently. We leverage the broader Amgen footprint, including manufacturing and operations. We believe we're earning attractive returns for our shareholders in this. When we pursue an opportunity, we deliver to date.
+
+Peter Griffith
+Peter Griffith
+Executive VP & CFO at Amgen
+00:58:34
+I would remind you that we have a 100% success rate of FDA approval once we enter the clinic. And with $10,000,000,000 in cumulative biosimilar sales through 2024, we're on track to double 2021 sales to over $4,000,000,000 by the end of the decade. I think this reinforces our leadership and ability to deliver attractive returns. So it's a really important question. We're delighted and we think this is a good use of shareholder capital.
+
+Justin Claeys
+Justin Claeys
+VP of IR at Amgen
+00:58:58
+All right, Julien. Let's go to the next question please.
+
+Operator
+00:59:01
+Thank you, Tim. Our next question comes from Evan Seagramen from BMO Capital Markets. Please go ahead. Your line is open.
+
+Conor MacKay
+Conor MacKay
+Equity Research Senior Associate at BMO Capital Markets
+00:59:08
+Hi, Hi there. This is Connor McKay on for Evan. Thanks for our question and congrats on the quarter. We just had one question on the Phase three ROCKET program with several readouts coming over the balance of the year. What are you looking to see from those readouts to get comfortable with your competitive positioning in the atopic dermatitis market?
+
+Conor MacKay
+Conor MacKay
+Equity Research Senior Associate at BMO Capital Markets
+00:59:27
+And sort of any updated thoughts on how you're thinking about that? Thank you.
+
+James Bradner
+James Bradner
+Executive VP of Research & Development and Chief Scientific Officer at Amgen
+00:59:32
+Yes. Thanks for the question. Rokotinolimab, our T cell rebalancing monoclonal antibody targets the OX40 receptor. As you note is we are reading out this year a number of studies of this ROCKET program. This eight study more than 3,300 patient program really gives a lot of granularity to answer your question around the target product profile, the safety and tolerability of roketimlimab and its full efficacy in patients with atopic dermatitis.
+
+James Bradner
+James Bradner
+Executive VP of Research & Development and Chief Scientific Officer at Amgen
+01:00:02
+In the SHUTL study, we study roketimlimab combination with topical steroids or calcineurins in adults with moderate to severe AD data first half of this year. In the IGNITE study, we study monotherapy in adults with moderate to severe data first half of this year. And then in the back half of the year, we have two studies Ascend and ASTRO. Ascend will help us understand maintenance in adults and adolescents. And then ASTRO is an adolescent study with moderate to severe AD.
+
+James Bradner
+James Bradner
+Executive VP of Research & Development and Chief Scientific Officer at Amgen
+01:00:29
+And so as you can tell, we're going to generate a lot of information about the potential to contribute to better therapy for this very common, in many cases, morbid disease as well as the tolerability profile.
+
+Justin Claeys
+Justin Claeys
+VP of IR at Amgen
+01:00:44
+Great. Julien, I think we've got time for two more.
+
+Operator
+01:00:47
+Certainly. Thank you, Evan. Our next question will come from Gregory Renza from RBC Capital Markets. Please go ahead. Your line is open.
+
+Gregory Renza
+Gregory Renza
+Director & Senior Analyst of Biotechnology Equity Research at RBC Capital Markets
+01:00:55
+Great. Good afternoon. And thanks for taking my question, Bob and team. Bob, you and the team talk about the global footprint and leveraging and penetrating new markets. I'm just wondering if you could comment a bit about the opportunity in China and namely just about the commercial opportunity for those oncology medicines and how that's being achieved through your partnership with BeiGene?
+
+Gregory Renza
+Gregory Renza
+Director & Senior Analyst of Biotechnology Equity Research at RBC Capital Markets
+01:01:17
+And maybe just longer term, how is that BeiGene or B1 arrangement just factoring into those longer term goals? Thank you very much.
+
+Robert Bradway
+Robert Bradway
+Chairman, CEO & President at Amgen
+01:01:25
+Yes, Muneet will take it in two parts. Let me just at the high altitude reiterate what I said at the beginning, Gregory, which is that the business is growing globally. All three of our geographic regions are growing. Our Japan, Asia Pacific business is the most rapidly growing of our regions right now. So we're really pleased with the performance in Japan and China and elsewhere in the region.
+
+Robert Bradway
+Robert Bradway
+Chairman, CEO & President at Amgen
+01:01:46
+And the collaboration with Beijing continues to go well. And Murrow, feel free to jump in and address any specifics about the portfolio there and the plans?
+
+Murdo Gordon
+Murdo Gordon
+Executive VP of Global Commercial Operations at Amgen
+01:01:56
+Yes. Both elements of our business in China are performing well. The Amgen affiliate business is growing nicely. That's essentially Repatha and Prolia, both products doing well, both products listed on the national reimbursement drug list and growing rapidly as Bob described. And with B1, formerly Beijing, our partnership I think, has exceeded our expectations in China.
+
+Murdo Gordon
+Murdo Gordon
+Executive VP of Global Commercial Operations at Amgen
+01:02:20
+The team execute extremely well across Kyprolis, Blincyto and XGEVA. And we continue to enjoy that partnership and feel good about it. And obviously, we continue to work closely with them on the other R and D projects that we've partnered on. So overall, pleased with that.
+
+Justin Claeys
+Justin Claeys
+VP of IR at Amgen
+01:02:41
+All right, Juliana, we'll have time for one more question.
+
+Operator
+01:02:45
+Thank you, Gregory. Our last question will come from Mohit Bansal from Wells Fargo. Please go ahead. Your line is open.
+
+Mohit Bansal
+Mohit Bansal
+Analyst at Wells Fargo
+01:02:52
+Great. Thank you very much for taking my question. I have a question regarding denosumab and mostly just a franchise mostly in the sense of how should we think about the cadence of biosimilar erosion, the biosimilars coming? I'm assuming it is more back half loaded, but we'd love to get any color how you are thinking about that.
+
+Robert Bradway
+Robert Bradway
+Chairman, CEO & President at Amgen
+01:03:15
+Sure. Muro, do you want to address that for Mohit?
+
+Murdo Gordon
+Murdo Gordon
+Executive VP of Global Commercial Operations at Amgen
+01:03:18
+Yes. Thanks, Mohit. Well, we have a bit of a clear understanding on the timing of when biosimilars will enter given the settlements that we've reached. So I would agree that the slope of the biosimilar erosion is going to be by definition of the timing more towards the back end. I would just encourage everybody to remember the cadence of biosimilar erosion in general And the fact that we've got two slightly different situations here with XGEVA largely used in the oncology setting and probably are used in postmenopausal osteoporosis.
+
+Murdo Gordon
+Murdo Gordon
+Executive VP of Global Commercial Operations at Amgen
+01:03:56
+So the slopes there could be different. But overall, we are in a good position given our participation in the biosimilar market. It teaches us lessons on how to defend successfully on the innovator side. And so we have a fairly large team of account executives that have been calling on our Nextiva and Prolia accounts for many years now. And we are the bone market leader.
+
+Murdo Gordon
+Murdo Gordon
+Executive VP of Global Commercial Operations at Amgen
+01:04:24
+And so there's a certain incumbency that we have that we think positions us well to defend against other biosimilar competition as the end of the market.
+
+Robert Bradway
+Robert Bradway
+Chairman, CEO & President at Amgen
+01:04:34
+Okay. Well, thank you all for your interest and appreciate you joining the call. We look forward to catching up after the next quarter. Thank you.
+
+Operator
+01:04:43
+This concludes our twenty twenty four Q4 and full year earnings call. You may now disconnect.
