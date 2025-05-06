@@ -1,0 +1,258 @@
+{
+	"info": {
+		"_postman_id": "07fc1a87-8690-4a21-949c-296a7a9d04c7",
+		"name": "Ascertain",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "5648526"
+	},
+	"item": [
+		{
+			"name": "extract_structured_1",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"raw_note\": \"{{resource_note_1}}\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{base_url}}/extract_structured",
+					"host": [
+						"{{base_url}}"
+					],
+					"path": [
+						"extract_structured"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "extract_structured_2",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"raw_note\": \"{{resource_note_2}}\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{base_url}}/extract_structured",
+					"host": [
+						"{{base_url}}"
+					],
+					"path": [
+						"extract_structured"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "to_fhir",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{ \"structured_note\": {\r\n    \"created_at\": \"2023-10-26\",\r\n    \"patient_information\": {\r\n        \"first_name\": null,\r\n        \"last_name\": null,\r\n        \"dob\": null,\r\n        \"id\": \"patient--001\",\r\n        \"gender\": null\r\n    },\r\n    \"conditions\": [\r\n        {\r\n            \"raw\": \"overweight (BMI 27.5)\",\r\n            \"name\": \"Overweight and obesity\",\r\n            \"code\": \"E66     \",\r\n            \"system\": \"ICD\"\r\n        },\r\n        {\r\n            \"raw\": \"Family hx of hyperlipidemia\",\r\n            \"name\": \"Family history of primary malignant neoplasm\",\r\n            \"code\": \"Z80     \",\r\n            \"system\": \"ICD\"\r\n        }\r\n    ],\r\n    \"diagnoses\": [\r\n        {\r\n            \"raw\": \"Adult annual health exam, generally healthy\",\r\n            \"name\": \"Encounter for general adult medical examination\",\r\n            \"code\": \"Z00.0\",\r\n            \"system\": \"ICD\"\r\n        }\r\n    ],\r\n    \"treatments\": [\r\n        {\r\n            \"raw\": \"healthier diet\",\r\n            \"name\": \"Dietary counseling and surveillance\",\r\n            \"code\": \"Z71.3\",\r\n            \"system\": \"ICD\"\r\n        },\r\n        {\r\n            \"raw\": \"increasing weekly exercise frequency\",\r\n            \"name\": \"Exercise counseling\",\r\n            \"code\": \"Z71.82\",\r\n            \"system\": \"ICD\"\r\n        },\r\n        {\r\n            \"raw\": \"Routine annual influenza vaccine administered today\",\r\n            \"name\": \"Influenza due to other identified influenza virus with the same other identified influenza virus pneumonia\",\r\n            \"code\": \"J10.01\",\r\n            \"system\": \"ICD\"\r\n        }\r\n    ],\r\n    \"medications\": []\r\n}}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{base_url}}/to_fhir",
+					"host": [
+						"{{base_url}}"
+					],
+					"path": [
+						"to_fhir"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "health",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{base_url}}/health",
+					"host": [
+						"{{base_url}}"
+					],
+					"path": [
+						"health"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "documents",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{base_url}}/documents",
+					"host": [
+						"{{base_url}}"
+					],
+					"path": [
+						"documents"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "documents",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"title\": \"Soap note 1\",\r\n    \"content\": \"{{resource_note_1}}\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{base_url}}/documents",
+					"host": [
+						"{{base_url}}"
+					],
+					"path": [
+						"documents"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "answer_question",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"question\": \"What lab work should patient--001 get?\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{base_url}}/answer_question",
+					"host": [
+						"{{base_url}}"
+					],
+					"path": [
+						"answer_question"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "summarize",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"content\": \"{{resource_note_1}}\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{base_url}}/summarize_note",
+					"host": [
+						"{{base_url}}"
+					],
+					"path": [
+						"summarize_note"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"packages": {},
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"packages": {},
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"variable": [
+		{
+			"key": "resource_note_1",
+			"value": "SOAP Note - Encounter Date: 2023-10-26\\r\\nPatient: patient--001\\r\\n\\r\\nS: Pt presents today for annual physical check-up. No chief complaints. Reports generally good health, denies chest pain, SOB, HA, dizziness. Family hx of elevated cholesterol (dad), no significant personal PMH issues reported. States routine exercise (~2x\\/wk), balanced diet but with occasional fast-food. Denies tobacco use, reports occasional ETOH socially.\\r\\n\\r\\nO:\\r\\nVitals:\\r\\n\\r\\nBP: 128\\/82 mmHg\\r\\nHR: 72 bpm, regular\\r\\nRR: 16 breaths\\/min\\r\\nTemp: 98.2\\u00C2\\u00B0F oral\\r\\nHt: 5'10\\\", Wt: 192 lbs, BMI: 27.5 (overweight)\\r\\nGeneral appearance: Alert, NAD, pleasant and cooperative.\\r\\nSkin: Clear, normal moisture\\/turgor\\r\\nHEENT: PERRLA, EOMI, no scleral icterus. Oral mucosa moist, throat clear, no erythema\\r\\nCV: Regular rate & rhythm, no murmurs, rubs or gallops\\r\\nLungs: CTA bilaterally, no wheezing or crackles\\r\\nABD: Soft, NT\\/ND, bowel sounds normal\\r\\nNeuro: CN II-XII intact, normal strength & sensation bilat\\r\\nEXT: No edema, pulses +2 bilaterally\\r\\nLabs ordered: CBC, CMP, Lipid panel\\r\\n\\r\\nA:\\r\\n\\r\\nAdult annual health exam, generally healthy\\r\\nPossible overweight (BMI 27.5), recommend lifestyle modifications\\r\\nFamily hx of hyperlipidemia, screening initiated\\r\\nP:\\r\\n\\r\\nAdvised pt on healthier diet, increasing weekly exercise frequency to at least 3-4 times\\/week\\r\\nScheduled follow-up visit to review lab results and cholesterol levels in approx. 5 months\\r\\nRoutine annual influenza vaccine administered today - tolerated well\\r\\nNo Rx prescribed at this visit.\\r\\n\\r\\nSigned:\\r\\nDr. Mark Reynolds, MD\\r\\nInternal Medicine",
+			"type": "string"
+		},
+		{
+			"key": "base_url",
+			"value": "http://localhost:8000",
+			"type": "string"
+		},
+		{
+			"key": "resource_note_2",
+			"value": "SOAP Note - Encounter Date: 2024-03-15 (Follow-Up Visit)\\r\\nPatient: patient--001\\r\\nS: Pt returns for follow-up on cholesterol, as planned in prior physical. Labs drawn on previous encounter indicating elevated LDL (165 mg\\/dL), mildly reduced HDL (38 mg\\/dL), triglycerides at upper normal limits (145 mg\\/dL). Pt admits difficulty adhering strictly to suggested dietary changes, but did slightly increase physical activity. Denies chest discomfort, palpitations, SOB, orthopnea, or PND.\\r\\n\\r\\nO:\\r\\nVitals today:\\r\\n\\r\\nBP: 134\\/84 mmHg\\r\\nHR: 78 bpm\\r\\nWeight stable at 192 lbs\\r\\nPhysical Exam unchanged from last assessment, no new findings.\\r\\n\\r\\nReview of labs (drawn on 2023-10-26):\\r\\n\\r\\nLDL cholesterol elevated at 165 mg\\/dL (desirable <100 mg\\/dL)\\r\\nHDL low at 38 mg\\/dL (desired >40 mg\\/dL)\\r\\nTriglycerides borderline at 145 mg\\/dL (normal <150 mg\\/dL)\\r\\nNo indications of DM, liver or kidney dysfunction observed on CMP results.\\r\\n\\r\\nA:\\r\\n\\r\\nHyperlipidemia\\r\\nOverweight status, decreased HDL\\r\\nStable vitals, no acute distress or cardiovascular symptoms\\r\\nP:\\r\\n\\r\\nInitiate atorvastatin 20 mg PO daily qHS; discussed risks\\/benefits with pt\\r\\nPt advised again regarding diet and lifestyle modifications\\r\\nRecommend continued aerobic exercise (at least 4 sessions\\/week, moderate intensity, 30-40 mins per session)\\r\\nRepeat lipid panel, LFTs after 3 months of statin therapy initiation\\r\\nReturn for follow-up in 3 months or earlier if any adverse reaction occurs.\\r\\nPrescription Note:\\r\\n\\r\\nAtorvastatin 20mg tab Disp: #90 (ninety) tabs Sig: 1 tablet PO daily at bedtime Refills: 3\\r\\nSigned:\\r\\nDr. Mark Reynolds, MD\\r\\nInternal Medicine",
+			"type": "string"
+		},
+		{
+			"key": "resource_note_3",
+			"value": "SOAP Note \\u00E2\\u20AC\\u201C Encounter Date: 2023-11-23\\r\\nPatient: patient--005\\r\\n\\r\\nS: Pt in today for scheduled flu shot, no acute complaints. Reports good overall health recently, denies fever, chills, cough, SOB, fatigue, or muscle aches. No hx. allergic reactions to vaccines.\\r\\n\\r\\nO:\\r\\nVitals stable, afebrile.\\r\\nGeneral appearance good, alert, cooperative.\\r\\nCV\\/RESP: Clear, normal heart sounds, lungs CTA\\r\\nHEENT\\/Neuro: Unremarkable exam today, no acute symptoms.\\r\\n\\r\\nA:\\r\\n\\r\\nInfluenza immunization, routine visit, well pt\\r\\nP:\\r\\n\\r\\nAdmin flu vaccine IM (left deltoid), well tolerated. No immediate adverse reactions.\\r\\nInstructed on possible mild sx post-vaccine (soreness, mild fever), offered supportive tx measures if symptoms appear.\\r\\nRTC PRN or annual checkup as scheduled.\\r\\nNo Rx necessary today.\\r\\n\\r\\nSigned:\\r\\nDr. Anna Lee, MD\\r\\nFamily Medicine",
+			"type": "string"
+		}
+	]
+}
